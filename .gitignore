@@ -1,16 +1,16 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
-/.pnp
+/wefit-teste-react/node_modules
+/wefit-teste-react/.pnp
 .pnp.js
-/.history
+/wefit-teste-react/.history
 
 # testing
-/coverage
+/wefit-teste-react/coverage
 
 # production
-/build
+/wefit-teste-react/build
 
 # misc
 .DS_Store
